@@ -1,0 +1,17 @@
+.country ,.country-not-visited{
+    border: 2px solid whitesmoke;
+    border-radius: 10px;
+    margin: 20px;
+    padding: 20px;
+}
+
+.country-visited{
+    background-color: bisque;
+    color: black;
+    border: 2px solid blue;
+}
+
+.flag img{
+    height: 150px;
+    width: 330px;
+}
